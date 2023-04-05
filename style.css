@@ -1,0 +1,63 @@
+/* For Mobile */
+@media screen and (min-width:320px) {
+    boby {
+        margin: 0px;
+    }
+
+    h1 {
+        margin-top: 55px;
+        font-family: inherit;
+    }
+
+    ul {
+        list-style: none;
+    }
+
+    .c1 {
+        margin-bottom: 15px;
+        margin-right: 50px;
+        padding: 15px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 10px 10px rgb(166, 168, 168);
+    }
+
+    #blue {
+        margin-bottom: 15px;
+        padding: 15px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 10px 10px rgb(166, 168, 168);
+    }
+
+    #green {
+        margin-bottom: 15px;
+        padding: 15px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 10px 10px rgb(166, 168, 168);
+    }
+
+    #yellow {
+        margin-bottom: 15px;
+        padding: 15px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 10px 10px rgb(166, 168, 168);
+    }
+
+    .con {
+        background-color: rgb(231, 229, 229);
+    }
+
+    #l {
+        border-style: outset;
+        border-color: white;
+        border-width:2px;
+        padding: 2px;
+    }
+
+    #d {
+        border-style: outset;
+    }
+
+    .fa {
+        margin-right: 200px;
+    }
+}
